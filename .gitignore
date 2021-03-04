@@ -1,2 +1,2 @@
-wiki
-tools/csshX-*.patch
+# Specify filepatterns you want git to ignore.
+.DS_Store
